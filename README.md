@@ -11,4 +11,4 @@ Fiz este projeto para praticar minhas habilidades com o framework Bootstrap e su
 
 > Estilização da página com as classes oferecidas pelo Bootstrap e por meio do CSS também;
 
-##### Link Vercel:
+##### Link Vercel: https://vercel.com/andrei-barbosas-projects/pratica-bootstrap-1
