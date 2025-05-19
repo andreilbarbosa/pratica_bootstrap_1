@@ -1,0 +1,42 @@
+.header{
+    padding: 20px 0;
+    background-color:rgb(160, 160, 160);
+    max-width: 100%;
+}
+
+.form{
+    max-width: 650px;
+}
+
+.campo-form form{
+    width: 100%;
+}
+
+.campo-form{
+    background-color:rgb(53, 53, 53);
+    padding: 40px 10px;
+    border-radius: 18px;
+    color: aliceblue;
+}
+
+.campo-form button{
+    width: 100%;
+    margin-top: 18px;
+}
+
+.label{
+    margin-top: 22px;
+}
+
+.form-switch{
+    margin-top: 12px;
+}
+
+.form{
+    padding: 40px 0;
+}
+
+.tabela{
+    padding: 40px 0;
+    max-width: 800px;
+}
